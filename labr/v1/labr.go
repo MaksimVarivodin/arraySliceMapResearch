@@ -1,7 +1,7 @@
-package arrays
+package labr
 
 import "fmt"
 
-func doesSomething() {
+func DoesSomething() {
 	fmt.Println("doesSomething")
 }
